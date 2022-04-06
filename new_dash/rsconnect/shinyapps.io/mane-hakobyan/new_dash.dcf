@@ -1,0 +1,13 @@
+name: new_dash
+title: new_dash
+username:
+account: mane-hakobyan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5366474
+bundleId: 5405151
+url: https://mane-hakobyan.shinyapps.io/new_dash/
+when: 1640288993.58969
+lastSyncTime: 1640288993.58969
+asMultiple: FALSE
+asStatic: FALSE
